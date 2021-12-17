@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\pract10_1\pract10_1\bin\Debug\net5.0\pract10_1.exe
+C:\Users\Acer\source\repos\pract10_1\pract10_1\bin\Debug\net5.0\pract10_1.deps.json
+C:\Users\Acer\source\repos\pract10_1\pract10_1\bin\Debug\net5.0\pract10_1.runtimeconfig.json
+C:\Users\Acer\source\repos\pract10_1\pract10_1\bin\Debug\net5.0\pract10_1.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\pract10_1\pract10_1\bin\Debug\net5.0\pract10_1.dll
+C:\Users\Acer\source\repos\pract10_1\pract10_1\bin\Debug\net5.0\ref\pract10_1.dll
+C:\Users\Acer\source\repos\pract10_1\pract10_1\bin\Debug\net5.0\pract10_1.pdb
+C:\Users\Acer\source\repos\pract10_1\pract10_1\obj\Debug\net5.0\pract10_1.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\pract10_1\pract10_1\obj\Debug\net5.0\pract10_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\pract10_1\pract10_1\obj\Debug\net5.0\pract10_1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\pract10_1\pract10_1\obj\Debug\net5.0\pract10_1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\pract10_1\pract10_1\obj\Debug\net5.0\pract10_1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\pract10_1\pract10_1\obj\Debug\net5.0\pract10_1.dll
+C:\Users\Acer\source\repos\pract10_1\pract10_1\obj\Debug\net5.0\ref\pract10_1.dll
+C:\Users\Acer\source\repos\pract10_1\pract10_1\obj\Debug\net5.0\pract10_1.pdb
+C:\Users\Acer\source\repos\pract10_1\pract10_1\obj\Debug\net5.0\pract10_1.genruntimeconfig.cache
